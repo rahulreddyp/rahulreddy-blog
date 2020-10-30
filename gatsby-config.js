@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Rahul First Blog`,
+    title: `Rahul's Blog`,
     author: {
       name: `Rahul Reddy`,
-      summary: `who lives and works in Hyderabad building useful things.`
+      summary: `who lives in Hyderabad, loves technology and works on building useful things.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A starter blog.`,
     siteUrl: `https://rahulreddypblog.netlify.app/`,
     social: {
-      twitter: `kylemathews`
+      twitter: `RahulReddy`
     }
   },
   plugins: [
@@ -60,7 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Rahul Reddy Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
