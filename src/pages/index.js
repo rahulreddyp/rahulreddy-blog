@@ -16,8 +16,8 @@ const BlogIndex = ({ data, location }) => {
         <Bio />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
+          directory you specified for the "source-filesystem" plugin in
+          config.js).
         </p>
       </Layout>
     )
@@ -49,7 +49,7 @@ const BlogIndex = ({ data, location }) => {
                 <section>
                   <p
                     dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
+                      __html: post.frontmatter.description || post.excerpt
                     }}
                     itemProp="description"
                   />
