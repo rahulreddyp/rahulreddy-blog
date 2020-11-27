@@ -29,19 +29,7 @@ I had worked for Uangteman Technologies Private Limited, an Indonesian fintech s
 _PS:- This picture is of me in Pari Island, Indonesia_
 
 You can also learn more about me by visiting my personal
-[website](https://github.com/rahulreddyp/ "Rahul's Portfolio site").
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
+[website](https://rahulreddy.netlify.app/ "Rahul's Portfolio site").
 
 _Good Bye, until next time_
 
